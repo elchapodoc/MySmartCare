@@ -1,0 +1,2 @@
+# MySmartCare
+A telemedicine applicatioj
